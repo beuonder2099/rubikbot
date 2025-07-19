@@ -1,0 +1,2 @@
+# rubikbot
+rubika spamer bot
